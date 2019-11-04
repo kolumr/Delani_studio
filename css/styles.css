@@ -12,7 +12,7 @@ h1{
   margin: 0em;
 }
 #c_img{
-  height: 300px;
+  height: 400px;
   width: 100vw;
   margin: 0em;
 }
@@ -65,9 +65,6 @@ h1{
 .submit{
   text-align: left;
   padding: 50px;
-}
-.submit button{
-  text-align: center;
 }
 .c_img{
   height: 300px;
