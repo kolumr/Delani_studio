@@ -59,3 +59,20 @@ h1{
   padding: 20px;
   
 }
+.inputText{
+  padding-right: 40px;
+}
+.submit{
+  text-align: left;
+  padding-left: 40px;
+}
+.c_img{
+  height: 300px;
+}
+footer{
+  text-align: center;
+  margin-top: 15px;
+}
+footer img{
+  padding: 10px;
+}
