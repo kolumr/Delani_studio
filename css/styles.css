@@ -76,3 +76,27 @@ footer{
 footer img{
   padding: 10px;
 }
+/* .imgp:hover .web1{
+  opacity: 0.4;
+} 
+.imgp:hover .web2{
+  opacity: 0.4;
+} 
+.imgp:hover .website1{
+  opacity: 1;
+}
+.imgp:hover .website2{
+    opacity: 1;
+} */
+.website{
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  border-style:solid;
+  padding: 5px;
+}
