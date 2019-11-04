@@ -12,10 +12,4 @@ $(function(){
     $(".display3").toggle();
     $(".service3").toggle();
   })
-  $(".web1").hover(function(){
-    $(".website1").fadeIn();
-    $(".website1").show();
-  }, function(){
-    $(".website1").hide();
-  });
 });

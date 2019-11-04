@@ -76,18 +76,18 @@ footer{
 footer img{
   padding: 10px;
 }
-/* .imgp:hover .web1{
+.web1:hover{
   opacity: 0.4;
 } 
-.imgp:hover .web2{
+.web2:hover{
   opacity: 0.4;
 } 
-.imgp:hover .website1{
+.website1:hover{
   opacity: 1;
 }
-.imgp:hover .website2{
+.website2:hover{
     opacity: 1;
-} */
+}
 .website{
   transition: .5s ease;
   opacity: 0;
@@ -99,4 +99,6 @@ footer img{
   text-align: center;
   border-style:solid;
   padding: 5px;
+  color: black;
+  background-color: blanchedalmond;
 }
