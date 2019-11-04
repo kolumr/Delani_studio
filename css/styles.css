@@ -88,6 +88,18 @@ footer img{
 .website2:hover{
     opacity: 1;
 }
+.web3:hover{
+  opacity: 0.4;
+} 
+.website3:hover{
+  opacity: 1;
+}
+.web4:hover{
+  opacity: 0.4;
+} 
+.website4:hover{
+  opacity: 1;
+}
 .website{
   transition: .5s ease;
   opacity: 0;
