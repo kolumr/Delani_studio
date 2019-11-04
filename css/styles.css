@@ -100,6 +100,30 @@ footer img{
 .website4:hover{
   opacity: 1;
 }
+.web5:hover{
+  opacity: 0.4;
+} 
+.website5:hover{
+  opacity: 1;
+}
+.web6:hover{
+  opacity: 0.4;
+} 
+.website6:hover{
+  opacity: 1;
+}
+.web7:hover{
+  opacity: 0.4;
+} 
+.website7:hover{
+  opacity: 1;
+}
+.web8:hover{
+  opacity: 0.4;
+} 
+.website8:hover{
+  opacity: 1;
+}
 .website{
   transition: .5s ease;
   opacity: 0;
