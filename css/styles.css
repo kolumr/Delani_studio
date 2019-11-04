@@ -64,7 +64,10 @@ h1{
 }
 .submit{
   text-align: left;
-  padding-left: 40px;
+  padding: 50px;
+}
+.submit button{
+  text-align: center;
 }
 .c_img{
   height: 300px;
