@@ -9,20 +9,20 @@ This website is a product of delani studio. It showcases the sevices offered whi
  RONALD KOLUM
 ##### Live link 
   **[https://kolumr.github.io/Delani_studio/] (https://kolumr.github.io/Delani_studio/)**
-### BDD
-  1.Display welcome message
+## BDD
+  1. Display welcome message
     -Logo diplayed
     -Message and Name of company displayed
     -Animated mouse displayed
-  2.Display about us
+  2. Display about us
     -Information about company displayed
-  3.Display services
+  3. Display services
     -Services offered by the company are dispayed
-  4.Display what we do
+  4. Display what we do
     -Design
     -Development
     -Product management
-  5.Display portforlio
+  5. Display portforlio
     -First Website
     -Second Website
     -Third Website
@@ -31,15 +31,15 @@ This website is a product of delani studio. It showcases the sevices offered whi
     -Sixth Website
     -Seventh Website
     -Eigth Website
-  6.Display contact form
+  6. Display contact form
     -Input:"Name"
     -Input:"Email"
     -Input:"Message"
     -Output:"Acknowledgment message"
-### Dependancies
+## Dependancies
 This website has no dependancies
 
-### Setting up
+## Setting up
 
 This is a website and does not need setting up. Access it using the live link above
 
@@ -47,7 +47,7 @@ This is a website and does not need setting up. Access it using the live link ab
 Email : kolumronnie@gmail.com
 Phone : 0720698580
 
-### LICENSE
+## LICENSE
 MIT License
 
 Copyright (c) 2019 kolumr

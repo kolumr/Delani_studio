@@ -1,4 +1,4 @@
-$(function(){
+$(document).ready(function(){
   $(".display").hide();
   $(".service1, .display1").click(function(){
     $(".display1").toggle();
@@ -53,4 +53,12 @@ $(function(){
   },function(){
     $(".website8").hide();
   });
+})
+$(document).ready(function(){
+  document.getElementById("form").addEventListener("submit", msg)
+function msg (){
+  var name1 = document.getElementById("name").Value;
+  alert("Hi we have received your message. Thank you");
+
+}
 });
