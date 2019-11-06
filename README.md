@@ -8,7 +8,7 @@ This website is a product of delani studio. It showcases the sevices offered whi
  ### Author
  RONALD KOLUM
 ##### Live link 
-  **[https://kolumr.github.io/Delani_studio/]**
+  **[https://kolumr.github.io/Delani_studio/] (https://kolumr.github.io/Delani_studio/)**
 ### BDD
   1.Display welcome message
     -Logo diplayed
