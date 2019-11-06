@@ -56,9 +56,8 @@ $(document).ready(function(){
 })
 $(document).ready(function(){
   document.getElementById("form").addEventListener("submit", msg)
-function msg (){
-  var name1 = document.getElementById("name").Value;
-  alert("Hi we have received your message. Thank you");
-
-}
+  function msg (){
+    var name1 = document.getElementById("name").Value;
+    alert("Hi we have received your message. Thank you");
+  }
 });
