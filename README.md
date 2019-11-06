@@ -11,31 +11,31 @@ This website is a product of delani studio. It showcases the sevices offered whi
   https://kolumr.github.io/Delani_studio/
 ## BDD
   1. Display welcome message
-    - Logo diplayed
-    - Message and Name of company displayed
-    - Animated mouse displayed
+      - Logo diplayed
+      - Message and Name of company displayed
+      - Animated mouse displayed
   2. Display about us
-    - Information about company displayed
+      - Information about company displayed
   3. Display services
-    - Services offered by the company are dispayed
+      - Services offered by the company are dispayed
   4. Display what we do
-    - Design
-    - Development
-    - Product management
+      - Design
+      - Development
+      - Product management
   5. Display portforlio
-    - First Website
-    - Second Website
-    - Third Website
-    - Fourth Website
-    - Fifth Website
-    - Sixth Website
-    - Seventh Website
-    - Eigth Website
+      - First Website
+      - Second Website
+      - Third Website
+      - Fourth Website
+      - Fifth Website
+      - Sixth Website
+      - Seventh Website
+      - Eigth Website
   6. Display contact form
-    - Input:"Name"
-    - Input:"Email"
-    - Input:"Message"
-    - Output:"Acknowledgment message"
+      - Input:"Name"
+      - Input:"Email"
+      - Input:"Message"
+      - Output:"Acknowledgment message"
 ## Dependancies
 This website has no dependancies
 
