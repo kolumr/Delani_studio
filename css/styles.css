@@ -16,6 +16,19 @@ h1{
   width: 100vw;
   margin: 0em;
 }
+#mouse{
+  animation: move 3s infinite;
+  -webkit-animation: move 3s infinite;
+
+  /* animation-duration: 4s; */
+}
+@keyframes move {
+  0%,35%,70%,100% {transform: translateY(0);}
+  20% {transform: translateY(40px)}
+  50% {transform: translateY(20px)}
+  80% {transform: translateY(-10px)}
+}
+
 .container{
   margin: 0em;
   
@@ -122,8 +135,8 @@ footer img{
   opacity: 0.4;
 } 
 .website8:hover{
-  opacity: 1;
-} */
+  opacity: 1; */
+}
 .website{
   transition: .5s ease;
   opacity: 0;
